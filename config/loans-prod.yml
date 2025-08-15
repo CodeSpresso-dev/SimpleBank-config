@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Simple Bank loans related APIs"
+  message: "Welcome to Simple Bank loans Production related APIs"
   contactDetails:
     name: "Lauren Smith - Production Owner"
     email: "{cipher}41356f879f414f72fb233826453db18ea9412adb150333f429a6f0ad8cbbbd4ae34cb1fb5dbdd4917f3cf8d064607e9e"
