@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Simple Bank accounts related Prod APIs"
+  message: "Welcome to Simple Bank accounts related Production APIs"
   contactDetails:
     name: "David Brown - Production Owner"
     email: "{cipher}2df04f2ed1383e1a434c2f72c46a0b7bae0390ef02d7a749489e81cdc4ef78849409da279a67016b5aae1ce4a60e6e78"
