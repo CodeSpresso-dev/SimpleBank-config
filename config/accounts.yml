@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Simple Bank accounts APIs(webhook)"
   contactDetails:
     name: "Mahdi Shivaeifar - Developer"
-    email: "0d13f26542080b470294531a40863a1c98bee71f5858ca3c94a69499635e9900bf4374472de5c3a2628921ab78f6d7f4"
+    email: "{cipher}0d13f26542080b470294531a40863a1c98bee71f5858ca3c94a69499635e9900bf4374472de5c3a2628921ab78f6d7f4"
   socialMedias:
     - "twitter(@simplebank) -> https://twitter.com/simplebank"
     - "facebook(simplebank) -> https://facebook.com/simplebank"
