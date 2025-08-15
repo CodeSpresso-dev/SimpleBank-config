@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Simple Bank accounts APIs(webhook)"
+  message: "Welcome to Simple Bank accounts APIs"
   contactDetails:
     name: "Mahdi Shivaeifar - Developer"
     email: "{cipher}0d13f26542080b470294531a40863a1c98bee71f5858ca3c94a69499635e9900bf4374472de5c3a2628921ab78f6d7f4"
